@@ -14,7 +14,7 @@
             "last_commit": "2026-03-25T05:16:23Z",
             "owner": "knockout",
             "repo": "knockout",
-            "stars": 10556
+            "stars": 10555
           }
         },
         {
@@ -480,7 +480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:55:00.482Z",
+    "last_updated": "2026-08-18T17:53:16.780Z",
     "original_repository": "dnbard/awesome-knockout",
     "original_repository_sha": "ba2646310d81d2a6853f1ccd5cdb143ceeb472bf",
     "enhanced_repository": "enhansome/enhansome-knockout",
