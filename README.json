@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 757363,
             "language": "JavaScript",
             "last_commit": "2026-03-25T05:16:23Z",
             "owner": "knockout",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 4128408,
             "language": "JavaScript",
             "last_commit": "2018-11-30T08:54:06Z",
             "owner": "BlueSpire",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2690603,
             "language": "JavaScript",
             "last_commit": "2026-01-11T19:28:58Z",
             "owner": "kmalakoff",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3471756,
             "language": "JavaScript",
             "last_commit": "2015-11-25T15:47:24Z",
             "owner": "stoodder",
@@ -63,7 +67,7 @@
       "title": "Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 3757055,
             "language": "JavaScript",
             "last_commit": "2019-08-21T13:35:31Z",
             "owner": "kendo-labs",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1725179,
             "language": "JavaScript",
             "last_commit": "2013-06-09T03:36:02Z",
             "owner": "madcapnmckay",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8165247,
             "language": "JavaScript",
             "last_commit": "2018-05-23T12:52:56Z",
             "owner": "billpull",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 5637647,
             "language": "C#",
             "last_commit": "2017-04-17T01:56:17Z",
             "owner": "AndreyAkinshin",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 2792760,
             "language": "CoffeeScript",
             "last_commit": "2024-05-18T15:41:40Z",
             "owner": "dnagir",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4200666,
             "language": "JavaScript",
             "last_commit": "2013-07-04T22:43:11Z",
             "owner": "steveluscher",
@@ -153,7 +163,7 @@
       "title": "Integrations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2639201,
             "language": "JavaScript",
             "last_commit": "2022-07-27T14:27:26Z",
             "owner": "Knockout-Contrib",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3350888,
             "language": "JavaScript",
             "last_commit": "2026-02-06T17:58:44Z",
             "owner": "rniemeyer",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1041356,
             "language": "JavaScript",
             "last_commit": "2017-06-21T22:54:45Z",
             "owner": "SteveSanderson",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4490173,
             "language": "JavaScript",
             "last_commit": "2023-03-10T15:30:05Z",
             "owner": "rniemeyer",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2878628,
             "language": "JavaScript",
             "last_commit": "2021-01-05T23:25:06Z",
             "owner": "Knockout-Contrib",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1523042,
             "language": "JavaScript",
             "last_commit": "2014-10-13T05:29:34Z",
             "owner": "ifandelse",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3474324,
             "language": "JavaScript",
             "last_commit": "2016-01-23T01:34:51Z",
             "owner": "mbest",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6771870,
             "language": "JavaScript",
             "last_commit": "2017-11-16T14:33:41Z",
             "owner": "rniemeyer",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6526349,
             "language": "JavaScript",
             "last_commit": "2016-05-19T16:20:33Z",
             "owner": "coderenaissance",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3157781,
             "language": "JavaScript",
             "last_commit": "2017-10-11T15:52:08Z",
             "owner": "jamesfoster",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1756873,
             "language": "JavaScript",
             "last_commit": "2012-02-02T16:17:21Z",
             "owner": "jimrhoskins",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 31490649,
             "language": "JavaScript",
             "last_commit": "2017-12-18T23:00:36Z",
             "owner": "Profiscience",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4367321,
             "language": "JavaScript",
             "last_commit": "2017-04-19T09:17:55Z",
             "owner": "frapontillo",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1439827,
             "language": "JavaScript",
             "last_commit": "2012-08-23T21:35:13Z",
             "owner": "thelinuxlich",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1563578,
             "language": "JavaScript",
             "last_commit": "2011-05-23T23:09:23Z",
             "owner": "hunterloftis",
@@ -372,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 57356073,
             "language": "JavaScript",
             "last_commit": "2021-12-28T17:17:32Z",
             "owner": "Profiscience",
@@ -383,7 +409,7 @@
       "title": "Plugins and libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -392,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11334630,
             "language": "JavaScript",
             "last_commit": "2016-01-13T21:48:55Z",
             "owner": "mbest",
@@ -406,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3225172,
             "language": "JavaScript",
             "last_commit": "2021-08-24T21:41:53Z",
             "owner": "mbest",
@@ -420,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3038050,
             "language": "JavaScript",
             "last_commit": "2017-07-16T17:32:06Z",
             "owner": "mbest",
@@ -434,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5488878,
             "language": "JavaScript",
             "last_commit": "2015-11-25T01:54:55Z",
             "owner": "mbest",
@@ -445,7 +475,7 @@
       "title": "Custom Bindings"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -454,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7250033,
             "language": "JavaScript",
             "last_commit": "2013-03-27T19:04:21Z",
             "owner": "robconery",
@@ -468,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55069955,
             "language": "JavaScript",
             "last_commit": "2019-02-13T10:27:52Z",
             "owner": "Profiscience",
@@ -480,8 +512,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:53:16.780Z",
+    "last_updated": "2026-08-19T12:36:10.358Z",
     "original_repository": "dnbard/awesome-knockout",
+    "original_repository_id": 24631639,
     "original_repository_sha": "ba2646310d81d2a6853f1ccd5cdb143ceeb472bf",
     "enhanced_repository": "enhansome/enhansome-knockout",
     "enhanced_repository_description": null,
