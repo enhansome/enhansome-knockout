@@ -55,4 +55,4 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
