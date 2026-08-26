@@ -4,7 +4,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ## Frameworks
 
-* [Knockout](https://github.com/knockout/knockout) ⭐ 10,556 | 🐛 352 | 🌐 JavaScript | 📅 2026-03-25 - Knockout makes it easier to create rich, responsive UIs with JavaScript
+* [Knockout](https://github.com/knockout/knockout) ⭐ 10,555 | 🐛 352 | 🌐 JavaScript | 📅 2026-03-25 - Knockout makes it easier to create rich, responsive UIs with JavaScript
 * [Durandal](https://github.com/BlueSpire/Durandal/) ⚠️ Archived - A cross-device, cross-platform client framework written in JavaScript and designed to make building Single Page Applications
 * [Knockback](https://github.com/kmalakoff/knockback) ⭐ 1,059 | 🐛 7 | 🌐 JavaScript | 📅 2026-01-11 - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections
 * [Falconjs](https://github.com/stoodder/falconjs) ⭐ 93 | 🐛 1 | 🌐 JavaScript | 📅 2015-11-25 - Adds structure to knockout.js by incorporting models, collections, and views
@@ -55,4 +55,4 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
