@@ -512,9 +512,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:22:11.022Z",
-    "original_repository": "dnbard/awesome-knockout",
-    "original_repository_id": 24631639,
+    "last_updated": "2026-08-27T11:47:58.118Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 24631639,
+      "language": null,
+      "last_commit": "2018-01-09T07:16:50Z",
+      "owner": "oleksbard",
+      "repo": "awesome-knockout",
+      "stars": 107
+    },
     "original_repository_sha": "ba2646310d81d2a6853f1ccd5cdb143ceeb472bf",
     "enhanced_repository": "enhansome/enhansome-knockout",
     "enhanced_repository_description": null,
