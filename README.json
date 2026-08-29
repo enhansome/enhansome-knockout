@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Knockout makes it easier to create rich, responsive UIs with JavaScript",
+            "homepage": "http://knockoutjs.com/",
             "id": 757363,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-25T05:16:23Z",
+            "open_issues": 352,
             "owner": "knockout",
             "repo": "knockout",
-            "stars": 10555
+            "stars": 10555,
+            "topics": [
+              "data-binding",
+              "javascript",
+              "knockout",
+              "mvvm"
+            ]
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -26,12 +36,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Durandal has evolved to the next generation: Aurelia.",
+            "homepage": "https://aurelia.io",
             "id": 4128408,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-11-30T08:54:06Z",
+            "open_issues": 0,
             "owner": "BlueSpire",
             "repo": "Durandal",
-            "stars": 1707
+            "stars": 1707,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -42,12 +57,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Knockback.js provides Knockout.js magic for Backbone.js Models and Collections.",
+            "homepage": "http://kmalakoff.github.com/knockback/",
             "id": 2690603,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-11T19:28:58Z",
+            "open_issues": 7,
             "owner": "kmalakoff",
             "repo": "knockback",
-            "stars": 1059
+            "stars": 1059,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -58,12 +78,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Falcon.js adds structure to knockout.js by incorporting models, collections, and views. It's setup to make developing single-page web applications a breeze.",
+            "homepage": "http://stoodder.github.io/falconjs/",
             "id": 3471756,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2015-11-25T15:47:24Z",
+            "open_issues": 1,
             "owner": "stoodder",
             "repo": "falconjs",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         }
@@ -80,12 +105,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A project to create a robust set of Knockout.js bindings for the Kendo UI widgets.",
+            "homepage": "http://kendo-labs.github.com/knockout-kendo/",
             "id": 3757055,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-08-21T13:35:31Z",
+            "open_issues": 113,
             "owner": "kendo-labs",
             "repo": "knockout-kendo",
-            "stars": 273
+            "stars": 273,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -96,12 +126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A home for rich UI components based on KnockoutJS",
+            "homepage": null,
             "id": 1725179,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2013-06-09T03:36:02Z",
+            "open_issues": 5,
             "owner": "madcapnmckay",
             "repo": "Knockout-UI",
-            "stars": 261
+            "stars": 261,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -112,12 +147,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin that adds custom bindings for twitter bootstrap objects such as tooltips and popovers.",
+            "homepage": null,
             "id": 8165247,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-05-23T12:52:56Z",
+            "open_issues": 31,
             "owner": "billpull",
             "repo": "knockout-bootstrap",
-            "stars": 232
+            "stars": 232,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -128,12 +168,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Power of Knockout.js for ASP.NET MVC",
+            "homepage": "http://knockoutmvc.com",
             "id": 5637647,
             "language": "C#",
+            "license": null,
             "last_commit": "2017-04-17T01:56:17Z",
+            "open_issues": 22,
             "owner": "AndreyAkinshin",
             "repo": "knockout-mvc",
-            "stars": 201
+            "stars": 201,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -144,12 +189,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "KnockoutJS for Rails with Sweetness",
+            "homepage": null,
             "id": 2792760,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2024-05-18T15:41:40Z",
+            "open_issues": 2,
             "owner": "dnagir",
             "repo": "knockout-rails",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -160,12 +210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Knockout-to-Meteor bridge",
+            "homepage": "http://steveluscher.github.com/knockout.meteor",
             "id": 4200666,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2013-07-04T22:43:11Z",
+            "open_issues": 2,
             "owner": "steveluscher",
             "repo": "knockout.meteor",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         }
@@ -182,12 +237,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A validation library for Knockout JS",
+            "homepage": null,
             "id": 2639201,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-07-27T14:27:26Z",
+            "open_issues": 136,
             "owner": "Knockout-Contrib",
             "repo": "Knockout-Validation",
-            "stars": 1012
+            "stars": 1012,
+            "topics": [
+              "javascript",
+              "knockout-validation",
+              "knockoutjs",
+              "knockoutjs-plugin",
+              "validation-library"
+            ]
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -198,12 +264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality",
+            "homepage": null,
             "id": 3350888,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-06T17:58:44Z",
+            "open_issues": 54,
             "owner": "rniemeyer",
             "repo": "knockout-sortable",
-            "stars": 545
+            "stars": 545,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -214,12 +285,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Object mapping plugin for KnockoutJS",
+            "homepage": null,
             "id": 1041356,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-06-21T22:54:45Z",
+            "open_issues": 82,
             "owner": "SteveSanderson",
             "repo": "knockout.mapping",
-            "stars": 541
+            "stars": 541,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -230,12 +306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small library that uses Knockout's native pub/sub capabilities to facilitate decoupled communication between separate view models or components.",
+            "homepage": null,
             "id": 4490173,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-10T15:30:05Z",
+            "open_issues": 6,
             "owner": "rniemeyer",
             "repo": "knockout-postbox",
-            "stars": 347
+            "stars": 347,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -246,12 +327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Knockout DataGrid",
+            "homepage": "https://knockout-contrib.github.io/KoGrid/",
             "id": 2878628,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-01-05T23:25:06Z",
+            "open_issues": 126,
             "owner": "Knockout-Contrib",
             "repo": "KoGrid",
-            "stars": 277
+            "stars": 277,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -262,12 +348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom Template Engine and Template Source for Knockout.js that loads external templates.  Supports native and jQuery templates.",
+            "homepage": null,
             "id": 1523042,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2014-10-13T05:29:34Z",
+            "open_issues": 4,
             "owner": "ifandelse",
             "repo": "Knockout.js-External-Template-Engine",
-            "stars": 224
+            "stars": 224,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -278,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deferred Updates plugin for Knockout <=3.3.0",
+            "homepage": "http://mbest.github.io/knockout-deferred-updates/",
             "id": 3474324,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-01-23T01:34:51Z",
+            "open_issues": 6,
             "owner": "mbest",
             "repo": "knockout-deferred-updates",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -294,12 +390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and flexible plugin to do declarative event delegation in Knockout.js",
+            "homepage": null,
             "id": 6771870,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-11-16T14:33:41Z",
+            "open_issues": 0,
             "owner": "rniemeyer",
             "repo": "knockout-delegatedEvents",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -310,12 +411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The knockout viewmodel plugin is the fastest, smallest, cleanest, most flexible way to create a knockout viewmodel.",
+            "homepage": "http://coderenaissance.github.com/knockout.viewmodel",
             "id": 6526349,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-05-19T16:20:33Z",
+            "open_issues": 28,
             "owner": "coderenaissance",
             "repo": "knockout.viewmodel",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -326,12 +432,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a comprehensive implementation of an observable dictionary in KnockoutJS",
+            "homepage": null,
             "id": 3157781,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-10-11T15:52:08Z",
+            "open_issues": 8,
             "owner": "jamesfoster",
             "repo": "knockout.observableDictionary",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -342,12 +453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "localStorage persistence for knockout.js",
+            "homepage": null,
             "id": 1756873,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2012-02-02T16:17:21Z",
+            "open_issues": 7,
             "owner": "jimrhoskins",
             "repo": "knockout.localStorage",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -358,12 +474,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": " :station: Component based router for developing wicked awesome apps with Knockout",
+            "homepage": null,
             "id": 31490649,
             "language": "JavaScript",
+            "license": "WTFPL",
             "last_commit": "2017-12-18T23:00:36Z",
+            "open_issues": 0,
             "owner": "Profiscience",
             "repo": "ko-component-router",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "javascript",
+              "knockout",
+              "knockoutjs",
+              "ko-component-router",
+              "router",
+              "spa",
+              "tko"
+            ]
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -374,12 +503,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple library to extend Knockout.js objects with RESTful actions.",
+            "homepage": null,
             "id": 4367321,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-04-19T09:17:55Z",
+            "open_issues": 0,
             "owner": "frapontillo",
             "repo": "knockout-rest",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -390,12 +524,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A base model for Knockout.js entities",
+            "homepage": "http://thelinuxlich.github.com/knockout.model",
             "id": 1439827,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2012-08-23T21:35:13Z",
+            "open_issues": 2,
             "owner": "thelinuxlich",
             "repo": "knockout.model",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -406,12 +545,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Namespaces plugin for KnockoutJS",
+            "homepage": "knockoutjs.com",
             "id": 1563578,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2011-05-23T23:09:23Z",
+            "open_issues": 6,
             "owner": "hunterloftis",
             "repo": "knockout.namespaces",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -422,12 +566,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":flashlight: because kodash was already taken.",
+            "homepage": null,
             "id": 57356073,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-12-28T17:17:32Z",
+            "open_issues": 1,
             "owner": "Profiscience",
             "repo": "ko-projections",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "functional",
+              "knockoutjs",
+              "lodash",
+              "underscore"
+            ]
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         }
@@ -444,12 +598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of enhanced binding syntaxes using Knockout 3+",
+            "homepage": "http://mbest.github.io/knockout.punches/",
             "id": 11334630,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-01-13T21:48:55Z",
+            "open_issues": 12,
             "owner": "mbest",
             "repo": "knockout.punches",
-            "stars": 236
+            "stars": 236,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -460,12 +619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful control flow bindings for Knockout",
+            "homepage": null,
             "id": 3225172,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-08-24T21:41:53Z",
+            "open_issues": 5,
             "owner": "mbest",
             "repo": "knockout-switch-case",
-            "stars": 167
+            "stars": 167,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -476,12 +640,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "REPEAT binding for Knockout",
+            "homepage": "http://mbest.github.io/knockout-repeat/",
             "id": 3038050,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-07-16T17:32:06Z",
+            "open_issues": 5,
             "owner": "mbest",
             "repo": "knockout-repeat",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -492,12 +661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Table binding plugin for Knockout",
+            "homepage": null,
             "id": 5488878,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-11-25T01:54:55Z",
+            "open_issues": 1,
             "owner": "mbest",
             "repo": "knockout-table",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         }
@@ -514,12 +688,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple browser-based shopping cart that uses local storage, powered by KnockoutJS",
+            "homepage": null,
             "id": 7250033,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2013-03-27T19:04:21Z",
+            "open_issues": 0,
             "owner": "robconery",
             "repo": "knockout-cart",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         },
@@ -530,12 +709,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":vertical_traffic_light: TDD Helpers for Knockout JS",
+            "homepage": null,
             "id": 55069955,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-02-13T10:27:52Z",
+            "open_issues": 3,
             "owner": "Profiscience",
             "repo": "ko-component-tester",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "knockoutjs",
+              "tdd",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
         }
@@ -544,15 +732,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:05:15.298Z",
+    "last_updated": "2026-08-29T05:05:11.552Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome plugins for Knockout",
+      "homepage": null,
       "id": 24631639,
       "language": null,
+      "license": null,
       "last_commit": "2018-01-09T07:16:50Z",
+      "open_issues": 8,
       "owner": "oleksbard",
       "repo": "awesome-knockout",
-      "stars": 107
+      "stars": 107,
+      "topics": [
+        "awesome",
+        "knockout"
+      ]
     },
     "original_repository_sha": "ba2646310d81d2a6853f1ccd5cdb143ceeb472bf",
     "enhanced_repository": "enhansome/enhansome-knockout",
