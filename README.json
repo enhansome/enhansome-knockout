@@ -16,7 +16,8 @@
             "owner": "knockout",
             "repo": "knockout",
             "stars": 10555
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "BlueSpire",
             "repo": "Durandal",
             "stars": 1707
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "kmalakoff",
             "repo": "knockback",
             "stars": 1059
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "stoodder",
             "repo": "falconjs",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         }
       ],
       "title": "Frameworks"
@@ -82,7 +86,8 @@
             "owner": "kendo-labs",
             "repo": "knockout-kendo",
             "stars": 273
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "madcapnmckay",
             "repo": "Knockout-UI",
             "stars": 261
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "billpull",
             "repo": "knockout-bootstrap",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "AndreyAkinshin",
             "repo": "knockout-mvc",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "dnagir",
             "repo": "knockout-rails",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "steveluscher",
             "repo": "knockout.meteor",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         }
       ],
       "title": "Integrations"
@@ -178,7 +188,8 @@
             "owner": "Knockout-Contrib",
             "repo": "Knockout-Validation",
             "stars": 1012
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "rniemeyer",
             "repo": "knockout-sortable",
             "stars": 545
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "SteveSanderson",
             "repo": "knockout.mapping",
             "stars": 541
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "rniemeyer",
             "repo": "knockout-postbox",
             "stars": 347
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "Knockout-Contrib",
             "repo": "KoGrid",
             "stars": 277
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "ifandelse",
             "repo": "Knockout.js-External-Template-Engine",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "mbest",
             "repo": "knockout-deferred-updates",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "rniemeyer",
             "repo": "knockout-delegatedEvents",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "coderenaissance",
             "repo": "knockout.viewmodel",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "jamesfoster",
             "repo": "knockout.observableDictionary",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "jimrhoskins",
             "repo": "knockout.localStorage",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "Profiscience",
             "repo": "ko-component-router",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "frapontillo",
             "repo": "knockout-rest",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "thelinuxlich",
             "repo": "knockout.model",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "hunterloftis",
             "repo": "knockout.namespaces",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "Profiscience",
             "repo": "ko-projections",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         }
       ],
       "title": "Plugins and libraries"
@@ -424,7 +450,8 @@
             "owner": "mbest",
             "repo": "knockout.punches",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "mbest",
             "repo": "knockout-switch-case",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "mbest",
             "repo": "knockout-repeat",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "mbest",
             "repo": "knockout-table",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         }
       ],
       "title": "Custom Bindings"
@@ -490,7 +520,8 @@
             "owner": "robconery",
             "repo": "knockout-cart",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         },
         {
           "node_type": "item",
@@ -505,14 +536,15 @@
             "owner": "Profiscience",
             "repo": "ko-component-tester",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
         }
       ],
       "title": "Components"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:35:28.866Z",
+    "last_updated": "2026-08-29T01:05:15.298Z",
     "original_repository_info": {
       "archived": false,
       "id": 24631639,
