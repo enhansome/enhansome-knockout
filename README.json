@@ -45,7 +45,7 @@
             "open_issues": 0,
             "owner": "BlueSpire",
             "repo": "Durandal",
-            "stars": 1707,
+            "stars": 1706,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:58:01.582Z",
+    "last_updated": "2026-09-03T20:00:50.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome plugins for Knockout",
