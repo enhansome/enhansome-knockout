@@ -114,7 +114,7 @@
             "open_issues": 113,
             "owner": "kendo-labs",
             "repo": "knockout-kendo",
-            "stars": 273,
+            "stars": 274,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
@@ -246,7 +246,7 @@
             "open_issues": 136,
             "owner": "Knockout-Contrib",
             "repo": "Knockout-Validation",
-            "stars": 1011,
+            "stars": 1010,
             "topics": [
               "javascript",
               "knockout-validation",
@@ -294,7 +294,7 @@
             "open_issues": 82,
             "owner": "SteveSanderson",
             "repo": "knockout.mapping",
-            "stars": 541,
+            "stars": 542,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
@@ -357,28 +357,7 @@
             "open_issues": 4,
             "owner": "ifandelse",
             "repo": "Knockout.js-External-Template-Engine",
-            "stars": 224,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:05:15.298Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Deferred Updates",
-          "description": "The plugin that modifies parts of Knockout’s observable/subscription system to use deferred updates",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Deferred Updates plugin for Knockout <=3.3.0",
-            "homepage": "http://mbest.github.io/knockout-deferred-updates/",
-            "id": 3474324,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2016-01-23T01:34:51Z",
-            "open_issues": 6,
-            "owner": "mbest",
-            "repo": "knockout-deferred-updates",
-            "stars": 133,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
@@ -399,6 +378,27 @@
             "open_issues": 0,
             "owner": "rniemeyer",
             "repo": "knockout-delegatedEvents",
+            "stars": 134,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:05:15.298Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Deferred Updates",
+          "description": "The plugin that modifies parts of Knockout’s observable/subscription system to use deferred updates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Deferred Updates plugin for Knockout <=3.3.0",
+            "homepage": "http://mbest.github.io/knockout-deferred-updates/",
+            "id": 3474324,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2016-01-23T01:34:51Z",
+            "open_issues": 6,
+            "owner": "mbest",
+            "repo": "knockout-deferred-updates",
             "stars": 133,
             "topics": []
           },
@@ -533,7 +533,7 @@
             "open_issues": 2,
             "owner": "thelinuxlich",
             "repo": "knockout.model",
-            "stars": 60,
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
@@ -628,7 +628,7 @@
             "open_issues": 5,
             "owner": "mbest",
             "repo": "knockout-switch-case",
-            "stars": 167,
+            "stars": 168,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T20:35:03.147Z",
+    "last_updated": "2026-09-24T20:38:07.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome plugins for Knockout",
