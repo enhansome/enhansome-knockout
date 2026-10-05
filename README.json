@@ -243,7 +243,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2022-07-27T14:27:26Z",
-            "open_issues": 136,
+            "open_issues": 135,
             "owner": "Knockout-Contrib",
             "repo": "Knockout-Validation",
             "stars": 1010,
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T20:18:51.172Z",
+    "last_updated": "2026-10-05T23:15:43.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome plugins for Knockout",
