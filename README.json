@@ -19,7 +19,7 @@
             "open_issues": 352,
             "owner": "knockout",
             "repo": "knockout",
-            "stars": 10563,
+            "stars": 10562,
             "topics": [
               "data-binding",
               "javascript",
@@ -336,7 +336,7 @@
             "open_issues": 126,
             "owner": "Knockout-Contrib",
             "repo": "KoGrid",
-            "stars": 277,
+            "stars": 276,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
@@ -533,7 +533,7 @@
             "open_issues": 2,
             "owner": "thelinuxlich",
             "repo": "knockout.model",
-            "stars": 61,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:15:43.467Z",
+    "last_updated": "2026-10-06T10:44:37.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome plugins for Knockout",

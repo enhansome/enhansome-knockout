@@ -4,7 +4,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ## Frameworks
 
-* [Knockout](https://github.com/knockout/knockout) ⭐ 10,563 | 🐛 352 | 🌐 JavaScript | 📅 2026-03-25 - Knockout makes it easier to create rich, responsive UIs with JavaScript
+* [Knockout](https://github.com/knockout/knockout) ⭐ 10,562 | 🐛 352 | 🌐 JavaScript | 📅 2026-03-25 - Knockout makes it easier to create rich, responsive UIs with JavaScript
 * [Durandal](https://github.com/BlueSpire/Durandal/) ⚠️ Archived - A cross-device, cross-platform client framework written in JavaScript and designed to make building Single Page Applications
 * [Knockback](https://github.com/kmalakoff/knockback) ⭐ 1,059 | 🐛 7 | 🌐 JavaScript | 📅 2026-01-11 - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections
 * [Falconjs](https://github.com/stoodder/falconjs) ⭐ 93 | 🐛 1 | 🌐 JavaScript | 📅 2015-11-25 - Adds structure to knockout.js by incorporting models, collections, and views
@@ -24,7 +24,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 * [Sortable](https://github.com/rniemeyer/knockout-sortable) ⭐ 545 | 🐛 54 | 🌐 JavaScript | 📅 2026-02-06 - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality
 * [Mapping](https://github.com/SteveSanderson/knockout.mapping) ⭐ 542 | 🐛 82 | 🌐 JavaScript | 📅 2017-06-21 - Object mapping plugin for KnockoutJS
 * [Postbox](https://github.com/rniemeyer/knockout-postbox) ⭐ 347 | 🐛 6 | 🌐 JavaScript | 📅 2023-03-10 - Publish/subscribe decoupled communication between separate view models and components
-* [Grid](https://github.com/Knockout-Contrib/KoGrid) ⭐ 277 | 🐛 126 | 🌐 JavaScript | 📅 2021-01-05 - A data grid plugin for Knockout
+* [Grid](https://github.com/Knockout-Contrib/KoGrid) ⭐ 276 | 🐛 126 | 🌐 JavaScript | 📅 2021-01-05 - A data grid plugin for Knockout
 * [External Template Engine](https://github.com/ifandelse/Knockout.js-External-Template-Engine) ⭐ 225 | 🐛 4 | 🌐 JavaScript | 📅 2014-10-13 - Custom Template Engine and Template Source for Knockout.js that loads external templates
 * [Delegated Events](https://github.com/rniemeyer/knockout-delegatedEvents) ⭐ 134 | 🐛 0 | 🌐 JavaScript | 📅 2017-11-16 - Simple and flexible plugin to do declarative event delegation
 * [Deferred Updates](https://github.com/mbest/knockout-deferred-updates) ⭐ 133 | 🐛 6 | 🌐 JavaScript | 📅 2016-01-23 - The plugin that modifies parts of Knockout’s observable/subscription system to use deferred updates
@@ -33,7 +33,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 * [Local Storage](https://github.com/jimrhoskins/knockout.localStorage) ⭐ 67 | 🐛 7 | 🌐 JavaScript | 📅 2012-02-02 - LocalStorage persistence for Knockout.js
 * [Router](https://github.com/profiscience/ko-component-router) ⚠️ Archived - Router for single-page apps
 * [Rest](https://github.com/frapontillo/knockout-rest) ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-19 - A simple library to extend Knockout.js objects with RESTful actions
-* [Model](https://github.com/thelinuxlich/knockout.model) ⭐ 61 | 🐛 2 | 🌐 JavaScript | 📅 2012-08-23 - A base model for Knockout.js entities
+* [Model](https://github.com/thelinuxlich/knockout.model) ⭐ 60 | 🐛 2 | 🌐 JavaScript | 📅 2012-08-23 - A base model for Knockout.js entities
 * [Namespaces](https://github.com/hunterloftis/knockout.namespaces) ⭐ 57 | 🐛 6 | 🌐 JavaScript | 📅 2011-05-23 - Namespaces for Knockout.js
 * [Projections](https://github.com/profiscience/ko-projections) ⚠️ Archived - Adds lodash FP chainability to observable arrays
 
@@ -55,4 +55,4 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
