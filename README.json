@@ -19,7 +19,7 @@
             "open_issues": 353,
             "owner": "knockout",
             "repo": "knockout",
-            "stars": 10558,
+            "stars": 10559,
             "topics": [
               "data-binding",
               "javascript",
@@ -60,9 +60,9 @@
             "description": "Knockback.js provides Knockout.js magic for Backbone.js Models and Collections.",
             "homepage": "http://kmalakoff.github.com/knockback/",
             "id": 2690603,
-            "language": "JavaScript",
+            "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-01-11T19:28:58Z",
+            "last_commit": "2026-10-11T07:40:08Z",
             "open_issues": 7,
             "owner": "kmalakoff",
             "repo": "knockback",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:37:58.470Z",
+    "last_updated": "2026-10-11T21:01:29.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome plugins for Knockout",
