@@ -66,7 +66,7 @@
             "open_issues": 7,
             "owner": "kmalakoff",
             "repo": "knockback",
-            "stars": 1059,
+            "stars": 1058,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T21:01:29.026Z",
+    "last_updated": "2026-10-12T23:43:20.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome plugins for Knockout",
