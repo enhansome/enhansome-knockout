@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-03-25T05:16:23Z",
-            "open_issues": 353,
+            "open_issues": 352,
             "owner": "knockout",
             "repo": "knockout",
             "stars": 10562,
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:47:02.100Z",
+    "last_updated": "2026-10-22T20:41:27.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome plugins for Knockout",
