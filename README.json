@@ -19,7 +19,7 @@
             "open_issues": 352,
             "owner": "knockout",
             "repo": "knockout",
-            "stars": 10566,
+            "stars": 10564,
             "topics": [
               "data-binding",
               "javascript",
@@ -315,7 +315,7 @@
             "open_issues": 6,
             "owner": "rniemeyer",
             "repo": "knockout-postbox",
-            "stars": 347,
+            "stars": 346,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:15.298Z"
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:58:23.764Z",
+    "last_updated": "2026-11-03T22:26:10.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome plugins for Knockout",
