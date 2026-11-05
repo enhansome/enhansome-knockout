@@ -4,7 +4,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ## Frameworks
 
-* [Knockout](https://github.com/knockout/knockout) ⭐ 10,563 | 🐛 352 | 🌐 JavaScript | 📅 2026-03-25 - Knockout makes it easier to create rich, responsive UIs with JavaScript
+* [Knockout](https://github.com/knockout/knockout) ⭐ 10,564 | 🐛 352 | 🌐 JavaScript | 📅 2026-03-25 - Knockout makes it easier to create rich, responsive UIs with JavaScript
 * [Durandal](https://github.com/BlueSpire/Durandal/) ⚠️ Archived - A cross-device, cross-platform client framework written in JavaScript and designed to make building Single Page Applications
 * [Knockback](https://github.com/kmalakoff/knockback) ⭐ 1,057 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-11 - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections
 * [Falconjs](https://github.com/stoodder/falconjs) ⭐ 93 | 🐛 1 | 🌐 JavaScript | 📅 2015-11-25 - Adds structure to knockout.js by incorporting models, collections, and views
@@ -42,7 +42,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 * [Punches](https://github.com/mbest/knockout.punches) ⭐ 236 | 🐛 12 | 🌐 JavaScript | 📅 2016-01-13 - Collection of enhanced binding syntaxes
 * [Switch Case](https://github.com/mbest/knockout-switch-case) ⭐ 168 | 🐛 5 | 🌐 JavaScript | 📅 2021-08-24 - Powerful control flow bindings
 * [Repeat](https://github.com/mbest/knockout-repeat) ⭐ 130 | 🐛 5 | 🌐 JavaScript | 📅 2017-07-16 - The repeat binding can replace foreach in many instances and is faster and simpler
-* [Table](https://github.com/mbest/knockout-table) ⭐ 87 | 🐛 1 | 🌐 JavaScript | 📅 2015-11-25 - Table binding plugin for Knockout
+* [Table](https://github.com/mbest/knockout-table) ⭐ 86 | 🐛 1 | 🌐 JavaScript | 📅 2015-11-25 - Table binding plugin for Knockout
 
 ## Components
 
@@ -55,4 +55,4 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
