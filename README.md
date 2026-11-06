@@ -20,7 +20,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ## Plugins and libraries
 
-* [Validation](https://github.com/Knockout-Contrib/Knockout-Validation) ⭐ 1,010 | 🐛 135 | 🌐 JavaScript | 📅 2022-07-27 - A validation library for Knockout JS
+* [Validation](https://github.com/Knockout-Contrib/Knockout-Validation) ⭐ 1,009 | 🐛 135 | 🌐 JavaScript | 📅 2022-07-27 - A validation library for Knockout JS
 * [Sortable](https://github.com/rniemeyer/knockout-sortable) ⭐ 545 | 🐛 54 | 🌐 JavaScript | 📅 2026-02-06 - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality
 * [Mapping](https://github.com/SteveSanderson/knockout.mapping) ⭐ 542 | 🐛 82 | 🌐 JavaScript | 📅 2017-06-21 - Object mapping plugin for KnockoutJS
 * [Postbox](https://github.com/rniemeyer/knockout-postbox) ⭐ 346 | 🐛 6 | 🌐 JavaScript | 📅 2023-03-10 - Publish/subscribe decoupled communication between separate view models and components
@@ -55,4 +55,4 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
