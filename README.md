@@ -4,7 +4,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ## Frameworks
 
-* [Knockout](https://github.com/knockout/knockout) ⭐ 10,564 | 🐛 352 | 🌐 JavaScript | 📅 2026-03-25 - Knockout makes it easier to create rich, responsive UIs with JavaScript
+* [Knockout](https://github.com/knockout/knockout) ⭐ 10,563 | 🐛 352 | 🌐 JavaScript | 📅 2026-03-25 - Knockout makes it easier to create rich, responsive UIs with JavaScript
 * [Durandal](https://github.com/BlueSpire/Durandal/) ⚠️ Archived - A cross-device, cross-platform client framework written in JavaScript and designed to make building Single Page Applications
 * [Knockback](https://github.com/kmalakoff/knockback) ⭐ 1,057 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-11 - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections
 * [Falconjs](https://github.com/stoodder/falconjs) ⭐ 93 | 🐛 1 | 🌐 JavaScript | 📅 2015-11-25 - Adds structure to knockout.js by incorporting models, collections, and views
@@ -22,7 +22,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 * [Validation](https://github.com/Knockout-Contrib/Knockout-Validation) ⭐ 1,009 | 🐛 135 | 🌐 JavaScript | 📅 2022-07-27 - A validation library for Knockout JS
 * [Sortable](https://github.com/rniemeyer/knockout-sortable) ⭐ 545 | 🐛 54 | 🌐 JavaScript | 📅 2026-02-06 - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality
-* [Mapping](https://github.com/SteveSanderson/knockout.mapping) ⭐ 542 | 🐛 82 | 🌐 JavaScript | 📅 2017-06-21 - Object mapping plugin for KnockoutJS
+* [Mapping](https://github.com/SteveSanderson/knockout.mapping) ⭐ 541 | 🐛 82 | 🌐 JavaScript | 📅 2017-06-21 - Object mapping plugin for KnockoutJS
 * [Postbox](https://github.com/rniemeyer/knockout-postbox) ⭐ 346 | 🐛 6 | 🌐 JavaScript | 📅 2023-03-10 - Publish/subscribe decoupled communication between separate view models and components
 * [Grid](https://github.com/Knockout-Contrib/KoGrid) ⭐ 276 | 🐛 126 | 🌐 JavaScript | 📅 2021-01-05 - A data grid plugin for Knockout
 * [External Template Engine](https://github.com/ifandelse/Knockout.js-External-Template-Engine) ⭐ 225 | 🐛 4 | 🌐 JavaScript | 📅 2014-10-13 - Custom Template Engine and Template Source for Knockout.js that loads external templates
@@ -55,4 +55,4 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
