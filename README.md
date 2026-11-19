@@ -4,7 +4,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ## Frameworks
 
-* [Knockout](https://github.com/knockout/knockout) ⭐ 10,567 | 🐛 353 | 🌐 JavaScript | 📅 2026-03-25 - Knockout makes it easier to create rich, responsive UIs with JavaScript
+* [Knockout](https://github.com/knockout/knockout) ⭐ 10,566 | 🐛 353 | 🌐 JavaScript | 📅 2026-03-25 - Knockout makes it easier to create rich, responsive UIs with JavaScript
 * [Durandal](https://github.com/BlueSpire/Durandal/) ⚠️ Archived - A cross-device, cross-platform client framework written in JavaScript and designed to make building Single Page Applications
 * [Knockback](https://github.com/kmalakoff/knockback) ⭐ 1,057 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-11 - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections
 * [Falconjs](https://github.com/stoodder/falconjs) ⭐ 93 | 🐛 1 | 🌐 JavaScript | 📅 2015-11-25 - Adds structure to knockout.js by incorporting models, collections, and views
@@ -20,7 +20,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ## Plugins and libraries
 
-* [Validation](https://github.com/Knockout-Contrib/Knockout-Validation) ⭐ 1,009 | 🐛 135 | 🌐 JavaScript | 📅 2022-07-27 - A validation library for Knockout JS
+* [Validation](https://github.com/Knockout-Contrib/Knockout-Validation) ⭐ 1,008 | 🐛 135 | 🌐 JavaScript | 📅 2022-07-27 - A validation library for Knockout JS
 * [Sortable](https://github.com/rniemeyer/knockout-sortable) ⭐ 545 | 🐛 54 | 🌐 JavaScript | 📅 2026-02-06 - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality
 * [Mapping](https://github.com/SteveSanderson/knockout.mapping) ⭐ 541 | 🐛 82 | 🌐 JavaScript | 📅 2017-06-21 - Object mapping plugin for KnockoutJS
 * [Postbox](https://github.com/rniemeyer/knockout-postbox) ⭐ 346 | 🐛 6 | 🌐 JavaScript | 📅 2023-03-10 - Publish/subscribe decoupled communication between separate view models and components
@@ -55,4 +55,4 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

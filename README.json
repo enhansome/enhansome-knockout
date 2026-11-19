@@ -19,7 +19,7 @@
             "open_issues": 353,
             "owner": "knockout",
             "repo": "knockout",
-            "stars": 10567,
+            "stars": 10566,
             "topics": [
               "data-binding",
               "javascript",
@@ -246,7 +246,7 @@
             "open_issues": 135,
             "owner": "Knockout-Contrib",
             "repo": "Knockout-Validation",
-            "stars": 1009,
+            "stars": 1008,
             "topics": [
               "javascript",
               "knockout-validation",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:28:40.414Z",
+    "last_updated": "2026-11-19T23:40:37.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome plugins for Knockout",
