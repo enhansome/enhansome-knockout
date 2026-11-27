@@ -19,7 +19,7 @@
             "open_issues": 353,
             "owner": "knockout",
             "repo": "knockout",
-            "stars": 10567,
+            "stars": 10566,
             "topics": [
               "data-binding",
               "javascript",
@@ -732,7 +732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T01:04:02.279Z",
+    "last_updated": "2026-11-27T01:05:39.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome plugins for Knockout",
